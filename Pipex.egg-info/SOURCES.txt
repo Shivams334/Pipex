@@ -1,0 +1,8 @@
+Pipex/__initi__.py
+Pipex/searchgoogle.py
+Pipex/websitealarm.py
+Pipex.egg-info/PKG-INFO
+Pipex.egg-info/SOURCES.txt
+Pipex.egg-info/dependency_links.txt
+Pipex.egg-info/not-zip-safe
+Pipex.egg-info/top_level.txt
