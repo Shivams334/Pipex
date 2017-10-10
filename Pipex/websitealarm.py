@@ -17,3 +17,4 @@ def websitealarm():
 	if (Actual_Time == Set_Alarm):
 		print ('You should see your webpage now :-)')
 	webbrowser.open(url)
+websitealarm()
